@@ -1,0 +1,84 @@
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\appsettings.json
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.exe
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.deps.json
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.runtimeconfig.json
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.pdb
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Npgsql.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.csproj.AssemblyReference.cache
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.AssemblyInfoInputs.cache
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.AssemblyInfo.cs
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.csproj.CoreCompileInputs.cache
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets\msbuild.Sistema de Gestão de Colaboradores.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets\msbuild.build.Sistema de Gestão de Colaboradores.props
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sistema de Gestão de Colaboradores.props
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sistema de Gestão de Colaboradores.props
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\scopedcss\bundle\Sistema de Gestão de Colaboradores.styles.css
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.csproj.CopyComplete
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\refint\Sistema de Gestão de Colaboradores.dll
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.pdb
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.genruntimeconfig.cache
+C:\Users\rennam\source\repos\Sistema de Gestão de Colaboradores\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\ref\Sistema de Gestão de Colaboradores.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\appsettings.json
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.exe
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.deps.json
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.runtimeconfig.json
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Sistema de Gestão de Colaboradores.pdb
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Npgsql.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.csproj.AssemblyReference.cache
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.AssemblyInfoInputs.cache
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.AssemblyInfo.cs
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.csproj.CoreCompileInputs.cache
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets\msbuild.Sistema de Gestão de Colaboradores.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets\msbuild.build.Sistema de Gestão de Colaboradores.props
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sistema de Gestão de Colaboradores.props
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sistema de Gestão de Colaboradores.props
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\scopedcss\bundle\Sistema de Gestão de Colaboradores.styles.css
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.csproj.CopyComplete
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\refint\Sistema de Gestão de Colaboradores.dll
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.pdb
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\Sistema de Gestão de Colaboradores.genruntimeconfig.cache
+C:\Users\rennam\source\Project\Sistema de Gestão de Colaboradores\obj\Debug\net6.0\ref\Sistema de Gestão de Colaboradores.dll

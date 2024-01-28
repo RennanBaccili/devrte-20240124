@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sistema de Gestão de Colaboradores.props" />
+</Project>

@@ -23,7 +23,6 @@ namespace Sistema_de_Gestão_de_Colaboradores.Models
 
         public UnitModel()
         {
-            Employees = new HashSet<EmployeeModel>();
         }
  
         public virtual ICollection<EmployeeModel> Employees { get; set; }

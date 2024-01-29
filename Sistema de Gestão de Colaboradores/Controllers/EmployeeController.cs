@@ -34,12 +34,19 @@ namespace Sistema_de_Gestão_de_Colaboradores.Controllers
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] EmployeeModel employee)
+        public async Task<IActionResult> Register([FromBody] EmployeeCreateDTO employeeDto)
         {
-            if (employee == null)
+            if (employeeDto == null)
             {
                 return BadRequest("Dados do colaborador são necessários.");
             }
+
+            var employee = new EmployeeModel
+            {
+                Name = employeeDto.Name,
+                UserId = employeeDto.UserId,
+                UnitId = employeeDto.UnitId
+            };
 
             try
             {
